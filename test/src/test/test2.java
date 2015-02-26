@@ -6,6 +6,8 @@ public class test2 {
 		
 		System.out.println("lool");
 		System.out.println("hello word !");
+		System.out.println("hello word !!!!!!!!!!!!!");
+		
 		
 	}
 }
